@@ -1,6 +1,6 @@
 Política de Privacidade - Anotei
 
-Última atualização: 13/04/2026
+Última atualização: 12/05/2026
 
 O aplicativo Anotei foi desenvolvido para ser uma ferramenta de produtividade pessoal. Esta página informa sobre nossas políticas relativas à coleta, uso e divulgação de informações pessoais quando você usa nosso serviço.
 
@@ -31,4 +31,4 @@ Nosso serviço não contém links para outros sites, exceto se você mesmo adici
 Podemos atualizar nossa Política de Privacidade de tempos em tempos. Recomendamos que você revise esta página periodicamente.
 
 7. Contato
-Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco através do e-mail: capybarastecapps@gmail.com
+Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco através do e-mail: djminocdj@gmail.com
